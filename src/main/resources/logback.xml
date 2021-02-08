@@ -14,7 +14,7 @@
 
     <logger name="com.droidablebee" level="DEBUG"/>
 
-    <logger name="org.apache.http" level="DEBUG"/>
-    <logger name="groovyx.net.http" level="DEBUG"/>
+<!--    <logger name="org.apache.http" level="DEBUG"/>-->
+<!--    <logger name="groovyx.net.http" level="DEBUG"/>-->
 
 </configuration>
