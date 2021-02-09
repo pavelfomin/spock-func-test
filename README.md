@@ -2,5 +2,5 @@
 Use Spock for functional tests
 
 ## Usage
- - `mvn clean test`
+ - `./mvnw clean test`
  - `open target/spock-reports/index.html`
